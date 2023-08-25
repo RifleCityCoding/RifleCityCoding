@@ -14,6 +14,3 @@
 <img src="https://4.bp.blogspot.com/-p_Q3Hynm-D8/UX9pbbP7VjI/AAAAAAAAEwM/cKSohmECuj4/s1600/maplestory+2.png" width="800"> 
 </p>
 > Quick snippet of 2008 FangBlade hitting 200! 
-
-Adding image below using markdown instead of html
-![Maple 200!](https://github.com/RifleCityCoding/RifleCityCoding/blob/main/img/Old%20School%20maple%20First200!.png)
